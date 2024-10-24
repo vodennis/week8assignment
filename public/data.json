@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Red Rising",
+        "author": "Pierce Brown",
+        "year": 2014,
+        "type": "Book"
+    },
+    {
+        "id": 2,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "year": 1988,
+        "type": "Book"
+    },
+    {
+        "id": 3,
+        "title": "Kindred",
+        "author": "Octavia Butler",
+        "year": 1979,
+        "type": "Book"
+    }
+]
